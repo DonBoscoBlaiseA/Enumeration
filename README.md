@@ -102,13 +102,13 @@ telnet <host address> 25 to connect
 and issue appropriate commands
   
 ## Output
-<img src="https://github.com/user-attachments/assets/6c7e722b-22c1-4376-8904-41acd74c68f8" width=600>  
+<img src="https://github.com/user-attachments/assets/30ea918d-b1a2-4606-8385-46d32a37bba2" width=600>
 
 ## nmap –script smtp-enum-users.nse <hostname>
 
 The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server by issuing the VRFY, EXPN or RCPT TO commands. The goal of this script is to discover all the user accounts in the remote system.
 ## Output:
-<img src="https://github.com/user-attachments/assets/76712d38-d29c-4f42-a4d6-e700192457df" width=600>
+<img src="https://github.com/user-attachments/assets/a96d78ee-0a40-4279-9418-9b93acfc45cc" width=600>
 
 
 ## RESULT:
